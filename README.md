@@ -1,4 +1,4 @@
-Google Image API
+Google Image PHP API
 =============
 
 #### *** DESCRIPTION *** ####
