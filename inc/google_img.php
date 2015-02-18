@@ -48,6 +48,7 @@ function getGoogleImg($search, $thumb = false) {
 	// If there are results from the query
 	if (!empty($results["responseData"]["results"])) {
 
+		// Browse each result from response and set it in $result
 		foreach ($results["responseData"]["results"] as $result) {
 
 			// Retrieve the HTTP headers
