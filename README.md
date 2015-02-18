@@ -9,7 +9,7 @@ A simple PHP script that search for an image source from Google Image API.
 
 1: Include PHP file that contains the function 
 ``` 
-include_once 'google_img.php';
+include_once 'inc/google_img.php';
 
 ```
 
